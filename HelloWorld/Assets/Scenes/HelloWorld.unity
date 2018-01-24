@@ -242,7 +242,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: Hello World 2
+=======
+  m_Text: Hello World 1
+>>>>>>> fcc5b9e... added the new files
 --- !u!222 &1252143716
 CanvasRenderer:
   m_ObjectHideFlags: 0
